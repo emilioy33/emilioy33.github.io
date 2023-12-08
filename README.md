@@ -10,10 +10,8 @@ See the two files above (in `assets`)
 
 ### Report
 
-To make this simple, you can write the report using a word processor or Latex, then export it as a .pdf file and upload it to the `assets` directory.
-
-Link to final report: [HERE](AOS C111 Final Project Report (EY).pdf). (or see above files, in `assets`).
+See the above PDF file (in `assets`).
 
 ### Code
 
-On BruinLearn.
+On BruinLearn, or [link](https://colab.research.google.com/drive/1M-5st5HlL7MYsYQ3k0VK4jblUYzewdqg?usp=sharing).
