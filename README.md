@@ -2,11 +2,9 @@
 
 ## C111 Final Project: Emilio Yanez
 
-Your final project has three components: a dataset, a report, and your code.
-
 ### Dataset
 
-See the two files above (in `assets`)
+See the two .txt files above (in `assets`)
 
 ### Report
 Atmospheric Rivers (ARs) are elongated and narrow filaments of water vapor transport in the atmosphere. Convergence of these water vapor plumes is often associated with heavy precipitation events (e.g., US West Coast). As part of my research in Dr. Gang Chen’s group, we have quantified the relationship between an AR’s moisture, wind, integrated vapor transport (IVT), and associated precipitation in two main ways. The first is by developing a global, percentile-based classification of wet and windy ARs in satellite observations (similar to [2]). The second (and the focus of this project) is using a binned scatter approach to understand better the sensitivity of mean AR precipitation to changes in other AR variables (e.g., moisture, wind, and IVT). Binned scatter plots [1] divide the independent variable into dynamically-sized bins and find the conditional means of a dependent variable, similar to the convective onset statistics for tropical convective precipitation against changes in water vapor [3]. In previous work, we found a strong conditional relationship between mean AR IVT and mean AR precipitation, regardless of the ocean basin and season. These conditional statistics in satellite observations may provide a benchmark for quantifying the relationship between ARs and precipitation in other data sets (such as reanalysis and climate models). As such, understanding and building an accurate “base” AR IVT-precipitation relationship is important for subsequent studies.
