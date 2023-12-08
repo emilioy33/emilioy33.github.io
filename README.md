@@ -65,7 +65,7 @@ A link to the dataset you used must be submitted on BruinLearn so that your cour
 
 Your report should be **delivered via your website**. Submit a link to your website on BruinLearn so that your instructor can browse it to find your report. 
 
-To make this simple, you can write the report using a word processor or Latex, then export it as a .pdf file and upload it to the `assets` directory. You can then link to it [like so](/assets/AOS C111 Final Project (EY).pdf). However, you can also type the report directly onto the website using another markdown page - [here is](/project.md) a template for that.
+To make this simple, you can write the report using a word processor or Latex, then export it as a .pdf file and upload it to the `assets` directory. You can then link to it [like so](/assets/AOS_C111_Final_Project_(EY).pdf). However, you can also type the report directly onto the website using another markdown page - [here is](/project.md) a template for that.
 
 ### Code
 
