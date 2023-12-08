@@ -12,7 +12,7 @@ See the two files above (in `assets`)
 
 To make this simple, you can write the report using a word processor or Latex, then export it as a .pdf file and upload it to the `assets` directory.
 
-Link to final report: [HERE](/assets/AOS_C111_Final_Project_(EY).pdf). (or see above files, in `assets`).
+Link to final report: [HERE](AOS C111 Final Project Report (EY).pdf). (or see above files, in `assets`).
 
 ### Code
 
