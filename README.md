@@ -11,7 +11,7 @@ Atmospheric Rivers (ARs) are elongated and narrow filaments of water vapor trans
 
 Deriving a conditional relationship between AR IVT and AR precipitation from raw data is challenging since there is considerable noise when plotting a simple scatterplot. This motivates using a machine learning (ML) approach to simplify the scatter in the data. Supervised algorithms, such as linear regression, support vector regression, and random forest regression can be used to predict mean AR precipitation from other AR variables. Once the ML model is trained, we can plot new scatter plots of mean AR IVT versus the predicted mean AR precipitation. The hope is that the predicted data, modeled from real satellite data, can reproduce the conditional AR IVT-precipitation relationship found in the original, non-ML method (my previous research). Overall, I find that all three ML models (linear, SVR, and random forest) predict the original conditional relationship with good accuracy.
 
-For the full report, see the above PDF file (in `assets`).
+For the full report, see [link](assets/AOS_C111_Final_Project_Report_EY.pdf) or the above PDF file (in `assets`).
 
 ### Code
 
