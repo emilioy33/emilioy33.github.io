@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Emilio Yanez Jr."
+  avatar           : "bio-photo-2.png"
+  name             : "Emilio Yanez Jr. (he/him)"
   pronouns         : "he/him"  
-  bio              : "Climate Science Ph.D Student"
+  bio              : "Climate Science Ph.D Student at the Scripps Institute of Oceanography"
   location         : "San Diego, CA"
-  employer         : "Scripps Institute of Oceanography"
+  employer         : 
   uri              : # URL
   email            : "e2yanez@ucsd.edu" 
 
