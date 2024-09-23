@@ -21,7 +21,7 @@ repository               : "emilioy33/emilioy33.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://postimg.cc/VJk7SzF2
+  avatar           : [![github-profile-pic.jpg](https://i.postimg.cc/zGn4cBHD/github-profile-pic.jpg)](https://postimg.cc/VJk7SzF2)
   name             : "Emilio Yanez Jr. (he/him)"
   pronouns         :   
   bio              : "Climate Science Ph.D Student at the Scripps Institute of Oceanography"
